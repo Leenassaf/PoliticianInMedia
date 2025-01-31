@@ -1,0 +1,60 @@
+Total Sources: 59
+ID: abc-news, Name: ABC News
+ID: al-jazeera-english, Name: Al Jazeera English
+ID: ars-technica, Name: Ars Technica
+ID: associated-press, Name: Associated Press
+ID: axios, Name: Axios
+ID: bleacher-report, Name: Bleacher Report
+ID: bloomberg, Name: Bloomberg
+ID: breitbart-news, Name: Breitbart News
+ID: business-insider, Name: Business Insider
+ID: buzzfeed, Name: Buzzfeed
+ID: cbs-news, Name: CBS News
+ID: cnn, Name: CNN
+ID: crypto-coins-news, Name: Crypto Coins News
+ID: engadget, Name: Engadget
+ID: entertainment-weekly, Name: Entertainment Weekly
+ID: espn, Name: ESPN
+ID: espn-cric-info, Name: ESPN Cric Info
+ID: fortune, Name: Fortune
+ID: fox-news, Name: Fox News
+ID: fox-sports, Name: Fox Sports
+ID: google-news, Name: Google News
+ID: hacker-news, Name: Hacker News
+ID: ign, Name: IGN
+ID: mashable, Name: Mashable
+ID: medical-news-today, Name: Medical News Today
+ID: msnbc, Name: MSNBC
+ID: mtv-news, Name: MTV News
+ID: national-geographic, Name: National Geographic
+ID: national-review, Name: National Review
+ID: nbc-news, Name: NBC News
+ID: new-scientist, Name: New Scientist
+ID: newsweek, Name: Newsweek
+ID: new-york-magazine, Name: New York Magazine
+ID: next-big-future, Name: Next Big Future
+ID: nfl-news, Name: NFL News
+ID: nhl-news, Name: NHL News
+ID: politico, Name: Politico
+ID: polygon, Name: Polygon
+ID: recode, Name: Recode
+ID: reddit-r-all, Name: Reddit /r/all
+ID: reuters, Name: Reuters
+ID: techcrunch, Name: TechCrunch
+ID: techradar, Name: TechRadar
+ID: the-american-conservative, Name: The American Conservative
+ID: the-hill, Name: The Hill
+ID: the-huffington-post, Name: The Huffington Post
+ID: the-next-web, Name: The Next Web
+ID: the-verge, Name: The Verge
+ID: the-wall-street-journal, Name: The Wall Street Journal
+ID: the-washington-post, Name: The Washington Post
+ID: the-washington-times, Name: The Washington Times
+ID: time, Name: Time
+ID: usa-today, Name: USA Today
+ID: vice-news, Name: Vice News
+ID: wired, Name: Wired
+ID: cbc-news, Name: CBC News
+ID: financial-post, Name: Financial Post
+ID: google-news-ca, Name: Google News (Canada)
+ID: the-globe-and-mail, Name: The Globe And Mail
